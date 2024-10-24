@@ -1,0 +1,460 @@
+/*   !BackGround-Image (Home Page => Section one)   */
+body {
+    min-height: 100vh;
+    width: 100vw;
+    overflow-x: hidden;
+    margin: 0px;
+}
+
+.home {
+    /* background-color:cornflowerblue; */
+    width: 100vw;
+    height: 100vh;
+    background-image: url(../images/A\ rustic\ wooden\ table\ adorned\ with\ freshly\ baked\ breads\,\ bathed\ in\ warm\ sunlight..jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.container-home {
+    /* background-color: blanchedalmond; */
+    height: 100vh;
+    width: 1200px;
+    margin: auto;
+}
+
+/* *NavBar */
+.home .navbar {
+    /* background-color: blueviolet; */
+    margin: 0 auto;
+}
+
+/* *bakery image => in NavBar => margin_right */
+.home .brand {
+    display: inline-block;
+    margin: 10px 0px;
+    vertical-align: middle;
+}
+
+/* *items => in NavBar =>margin_left */
+.home .list {
+    /* background-color: blue; */
+    display: inline-block;
+    margin-left: 510px;
+    padding: 0px 20px;
+}
+
+/* &for adjust items in list */
+.home .items li {
+    color: whitesmoke;
+    padding: 0px 10px;
+    margin: 10px 0;
+    display: inline-block;
+    list-style-type: none;
+    border-bottom: 1px #8E7745 solid;
+    font-weight: bold;
+}
+
+.home .items li:hover {
+    color: #8E7745;
+}
+
+/* *title => The words in the middle of the page(content Home Page Section one) */
+.home .title {
+    text-align: center;
+    margin: 240px;
+}
+
+.home .description {
+    color: white;
+    font-size: medium;
+    line-height: 1.86em;
+
+}
+
+/* *buttons */
+
+.home .one {
+    display: inline-block;
+}
+
+/* &Adjust buttons style */
+.home .btn {
+    color: white;
+    height: 50px;
+    width: 120px;
+}
+
+.home .buttons .btn.learn {
+    background-color: #8E7745;
+    border: 0px white solid;
+    margin: 15px 10px;
+    color: white;
+}
+
+.home .buttons .btn.learn:hover {
+    background-color: #ffff;
+    color: black;
+}
+
+.home .buttons .btn.contact {
+    background-color: transparent;
+    border: 2px white solid;
+    color: white;
+}
+
+.home .buttons .btn.contact:hover {
+    background-color: #fff;
+    color: black;
+}
+
+/*  !Who We Are  */
+
+.who .container-who {
+    /* background-color:burlywood ; */
+    display: flex;
+    height: 100vh;
+    width: 1200px;
+    margin: auto;
+}
+
+.who .photo {
+    /* background-color:aquamarine; */
+    box-sizing: border-box;
+    margin: 70px 0px 60px;
+    padding-right: 18px;
+}
+
+.who .content-two {
+    /* background-color: blanchedalmond; */
+    margin-left: auto;
+    color: #686868;
+    box-sizing: border-box;
+    margin: 70px 18.800px 60px 45px;
+    padding: 50px 0px 0px 15px;
+    font-size: medium;
+}
+
+.who .who-text h2 {
+    color: #303030;
+    margin: 30px 0px 25px;
+}
+
+.who .who-text p {
+    margin-bottom: 10px;
+    font-size: medium;
+    line-height: 1.86em;
+}
+
+.who .icons {
+    list-style-type: none;
+    padding: 0px 10px 0px 0px;
+}
+
+.icons-who .icons li {
+    display: flex;
+    margin: 0px 0px 2px;
+    padding: 15px 0px 0px 0px;
+}
+
+.icon-container {
+    border: 1px rgb(240, 213, 162) solid;
+    border-radius: 50%;
+    display: flex;
+    margin-right: 10px;
+}
+
+/* !Our Location  */
+.our-location {
+    background-color: #f8f8f8;
+    height: 100vh;
+    width: 100vw;
+}
+
+.container-location {
+    /* background-color:#252d5d; */
+    height: 100vh;
+    display: flex;
+    width: 1200px;
+    margin: auto;
+}
+
+.total-location {
+    /* background-color: brown; */
+    margin: 120px 5px 105px 0px;
+}
+
+.title-location h2 {
+    color: #303030;
+    margin: 120px 0px 20px;
+}
+
+.description-location #one {
+    color: #8E7745;
+    margin: 20px 0px;
+    font-size: medium;
+    line-height: 1.86em;
+}
+
+.description-location #two {
+    color: #8E7745;
+    margin: 20px 0px;
+    font-size: medium;
+    line-height: 1.86em;
+}
+
+.photo-location {
+    /* background-color: burlywood; */
+    margin: 120px 0px 105px 50px;
+    padding: 15px 15px;
+}
+
+/* !Our Baking */
+
+.our-baking {
+    background-color: white;
+    height: 100vh;
+    width: 100vw;
+}
+
+.our-baking .container-baking {
+    /* background-color: burlywood; */
+    width: 1200px;
+    height: 100vh;
+    margin: auto;
+}
+
+.title-baking {
+    /* background-color: brown; */
+    text-align: center;
+    padding: 70px 0px 0px;
+}
+
+.title-baking h2 {
+    color: #303030;
+}
+
+.title-baking p {
+    /* color: #8E7745; */
+    font-size: medium;
+}
+
+.cards-baking .clear-fix {
+    clear: left;
+}
+
+.cards-baking {
+    /* background-color:#8e7754; */
+    margin: auto;
+}
+
+.cards-baking .card {
+    /* background-color:#643bb5; */
+    float: left;
+    box-sizing: border-box;
+    width: 33.33%;
+    padding: 20px;
+}
+
+.cards-baking .card h3 {
+    color: #303030;
+}
+
+.cards-baking .card p {
+    color: #8E7745;
+    line-height: 1.86em;
+    font-size: medium;
+}
+
+.cards-baking img {
+    width: 100%;
+}
+
+/* !Contact Information */
+.contact {
+    background-color: #f8f8f8;
+    height: 100vh;
+    width: 100vw;
+}
+
+.clear-fix {
+    clear: both;
+}
+
+.contact .container-contact {
+    /* background-color: burlywood; */
+    width: 1200px;
+    height: 100vh;
+    margin: auto;
+}
+
+.total-contact {
+    /* background-color: #643bb5; */
+    width: 50%;
+    float: left;
+    height: 100vh;
+    box-sizing: border-box;
+    color: #686868;
+}
+
+.total-contact .color {
+    /* background-color: aqua; */
+    margin: 85px 40px 85px 0px;
+    padding: 0px 15px;
+}
+
+.title-contact h2 {
+    /* background-color: blanchedalmond; */
+    margin-bottom: 40px;
+    color: #303030;
+}
+
+.title-contact .one {
+    /* background-color:burlywood; */
+    font-size: medium;
+    line-height: 1.86em;
+    margin-bottom: 50px;
+}
+
+.title-contact .two {
+    /* background-color:cadetblue; */
+    font-size: medium;
+    margin-bottom: 25px;
+
+}
+
+.contact-details {
+    padding: 0px 40px 0px 0px;
+}
+
+.contact-details li {
+    /* background-color: aquamarine; */
+    list-style-type: none;
+    margin: 0px 110px 0px 0px;
+}
+
+/* &follow of icons put before text */
+.contact-details img {
+    width: 36px;
+    border-radius: 50%;
+    border: 2px #8e7754 solid;
+    background-color: #8e7754;
+    margin: 10px 10px 0px 0px;
+
+}
+
+.contact-map {
+    /* background-color: coral; */
+    width: 50%;
+    height: 100vh;
+    margin-left: auto;
+}
+
+.contact-map img {
+    margin: 85px 55px;
+    padding: 0px 15px;
+}
+
+/* !the last page(information) */
+.information {
+    background-color: #403d38;
+    height: 478px;
+    background-attachment: fixed;
+}
+
+.container-information {
+    /* background-color: #643bb5; */
+    margin: 0px auto;
+    height: 338px;
+    width: 1200px;
+}
+
+.cards-info {
+    /* background-color:blueviolet; */
+    padding: 80px 0px 52px;
+}
+
+.clearinfo-fix {
+    clear: both;
+}
+
+.card-info {
+    /* background-color: aqua; */
+    float: left;
+    list-style-type: none;
+    width: 25%;
+    height: 348px;
+    padding: 0px 0px 50px;
+}
+
+.card-info h2 {
+    color: #fff;
+    margin: 0px 0px 25px;
+    padding: 0px 12px;
+}
+
+.card-info ul {
+    color: #969696;
+    list-style-type: none;
+    padding: 0px 12px;
+}
+
+.card-info li {
+    border-bottom: 1px #969696 solid;
+    padding: 0px 0px 20px;
+    margin: 0px 0px 10px;
+    font-size: medium;
+}
+
+.card-info li img {
+    padding: 0px 8px 0px 0px;
+}
+
+.about-info {
+    color: #969696;
+    padding: 0px 10px 0px 10px;
+    line-height: 1.86em;
+}
+
+.items-details {
+    background-image: url(../images/contact-details-map.png);
+    background-position: center;
+    background-size: 75%;
+    background-repeat: no-repeat;
+}
+
+/* !final logo */
+.final {
+    background-color: #353330;
+    height: 298.50px;
+    /* width: 100vw; */
+}
+
+.container-final {
+    /* background-color: #e39918; */
+    margin: 0px auto;
+    height: 208px;
+    width: 1200px;
+    padding: 50px 0px 40px;
+    text-align: center;
+}
+
+.container-final img {
+    width: 353px;
+}
+
+.container-final p {
+    margin: 5px 0px 0px;
+    color: #777777;
+}
+
+.container-final .icons-final {
+    margin: 15px 0px 0px;
+    padding: 8px 0px 0px;
+}
+
+.container-final .img-final {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 1px #484540 solid;
+}
