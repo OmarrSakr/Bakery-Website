@@ -1,6 +1,6 @@
 # Home Bakery 🍞  
 
-![Bakery](https://github.com/user-attachments/assets/cb850ca1-1c3b-47ad-9e16-191711dd2df6)
+![Bakery](https://github.com/user-attachments/assets/63771125-eded-482a-adfd-fcc312306a80)
 
 Welcome to *Home Bakery* – a beautiful and modern website designed for bakeries!  
 This project showcases a static landing page for a bakery, featuring key sections such as:  
