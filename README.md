@@ -49,6 +49,36 @@ We welcome `contributions` to **Bakery**! Here’s how you can help:
 
 ---
 
+## 📂 Project Structure 
+```
+# BakeryHouse 🍞
+│
+├── index.html                # الصفحة الرئيسية 🏠
+│
+├── CSS/                      # مجلد الأنماط 🎨
+│   ├── HomeStyle.css         # أنماط الصفحة الرئيسية 🌟
+│   └── otherStyles.css       # أنماط إضافية (إذا لزم الأمر) 📄
+│
+├── images/                   # مجلد الصور 📸
+│   ├── bakery-lightLogo.png   # شعار المخبز 🥖
+│   ├── A freshly baked sourdough loaf,sharp knife..jpg  # صورة للخبز 🍞🔪
+│   ├── Icons/                # مجلد الأيقونات 🖼️
+│   │   ├── leaf.png          # أيقونة ورقة 🍃
+│   │   ├── people.png        # أيقونة أشخاص 👥
+│   │   ├── heart.png         # أيقونة قلب ❤️
+│   │   ├── check.png         # أيقونة تحقق ✔️
+│   │   ├── map.png           # أيقونة خريطة 🗺️
+│   │   ├── phone.png         # أيقونة هاتف 📞
+│   │   ├── headphone.png      # أيقونة سماعة 🎧
+│   │   ├── email.png         # أيقونة بريد إلكتروني 📧
+│   └── otherImages.jpg       # صور إضافية (إذا لزم الأمر) 📷                                          
+│
+└── README.md                 # ملف README للمشروع 📖
+
+```
+
+---
+
 ### Future Updates 🔄
 - Add responsive design for better compatibility on mobile devices.
 - Implement responsive navbar behavior to enhance user experience.
