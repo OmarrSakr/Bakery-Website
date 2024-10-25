@@ -16,6 +16,11 @@ Additionally, the tabs in the navbar do not redirect to any sections; they are p
 
 ---
 
+## Live Demo 🌐
+- Check out the live demo of the project at [Home Bakery](https://omarrsakr.github.io/Bakery-Website/).
+
+---
+
 ## Features ✨
 - *Static Content:* The entire site is built with static HTML and CSS.  
 - *Non-Responsive Navbar:* Navigation bar with brand logo and links, but without mobile-friendly behavior.  
