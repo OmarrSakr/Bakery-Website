@@ -39,10 +39,13 @@ Additionally, the tabs in the navbar do not redirect to any sections; they are p
 ---
 
 ## How to Use 🚀  
-1. Clone the repository:
+
+We welcome `contributions` to **Bakery**! Here’s how you can help:
+1. **Fork the repository** - Click the "Fork" button at the top right of the repository page.
+2. **Clone your fork** - Use the command:
    
    ```bash
-     git clone https://github.com/OmarrSakr/Bakery-Website.git
+    git clone https://github.com/OmarrSakr/Bakery-Website.git
 
 ---
 
@@ -56,10 +59,5 @@ Additionally, the tabs in the navbar do not redirect to any sections; they are p
 ### Important Notes 📢
 - This project is a static website and does not include a backend or dynamic content.
 - Non-Responsive Design: The current version is not optimized for mobile or tablet screens.
-
----
-
-### Contributing 💡
-Feel **free** to fork the project, make improvements, and submit a **pull** request. Contributions are welcome!
 
 ---
