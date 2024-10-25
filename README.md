@@ -58,3 +58,8 @@ Additionally, the tabs in the navbar do not redirect to any sections; they are p
 - Non-Responsive Design: The current version is not optimized for mobile or tablet screens.
 
 ---
+
+### Contributing 💡
+Feel **free** to fork the project, make improvements, and submit a **pull** request. Contributions are welcome!
+
+---
