@@ -16,7 +16,11 @@ body {
 }
 
 .container-home {
+<<<<<<< HEAD
     /* background-color: blanchedalmond; */
+=======
+    background-color: blanchedalmond;
+>>>>>>> c4327532391302f9a2393833471db6ec0a72b4aa
     height: 100vh;
     width: 1200px;
     margin: auto;
@@ -24,7 +28,11 @@ body {
 
 /* *NavBar */
 .home .navbar {
+<<<<<<< HEAD
     /* background-color: blueviolet; */
+=======
+    background-color: blueviolet;
+>>>>>>> c4327532391302f9a2393833471db6ec0a72b4aa
     margin: 0 auto;
 }
 
@@ -37,7 +45,11 @@ body {
 
 /* *items => in NavBar =>margin_left */
 .home .list {
+<<<<<<< HEAD
     /* background-color: blue; */
+=======
+    background-color: blue;
+>>>>>>> c4327532391302f9a2393833471db6ec0a72b4aa
     display: inline-block;
     margin-left: 510px;
     padding: 0px 20px;
