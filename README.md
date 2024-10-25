@@ -2,6 +2,11 @@
 
 ![Bakery](https://github.com/user-attachments/assets/63771125-eded-482a-adfd-fcc312306a80)
 
+## Live Demo 🌐
+- Check out the live demo of the project at [Home Bakery](https://omarrsakr.github.io/Bakery-Website/).
+
+---
+
 Welcome to *Home Bakery* – a beautiful and modern website designed for bakeries!  
 This project showcases a static landing page for a bakery, featuring key sections such as:  
 - A home banner  
@@ -13,11 +18,6 @@ This project showcases a static landing page for a bakery, featuring key section
 It may not display well on mobile devices or tablets.  
 *The navbar* is also *non-responsive* and does not adapt for smaller screens.  
 Additionally, the tabs in the navbar do not redirect to any sections; they are purely for design purposes.   
-
----
-
-## Live Demo 🌐
-- Check out the live demo of the project at [Home Bakery](https://omarrsakr.github.io/Bakery-Website/).
 
 ---
 
