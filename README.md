@@ -7,7 +7,7 @@
 
 ---
 
-Welcome to *Home Bakery* – a beautiful and modern website designed for bakeries!  
+Welcome to `Home Bakery` – a beautiful and modern website designed for bakeries!  
 This project showcases a static landing page for a bakery, featuring key sections such as:  
 - A home banner  
 - Information about the bakery  
