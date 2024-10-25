@@ -37,7 +37,7 @@ Additionally, the tabs in the navbar do not redirect to any sections; they are p
 1. Clone the repository:
    
    ```bash
-     git clone https://github.com/OmarrSakr/Bakery-Website.git 
+     git clone https://github.com/OmarrSakr/Bakery-Website.git
 
 ---
 
