@@ -1,6 +1,6 @@
 # Home Bakery 🍞  
 
-![Bakery](https://github.com/user-attachments/assets/63771125-eded-482a-adfd-fcc312306a80)
+![Bakery](https://github.com/user-attachments/assets/39d925a9-c762-4983-9d50-ef4ec60ac4b9)
 
 ## Live Demo 🌐
 - Check out the live demo of the project at [Home Bakery](https://omarrsakr.github.io/Bakery-Website/).
