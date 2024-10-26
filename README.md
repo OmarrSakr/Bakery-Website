@@ -1,4 +1,4 @@
-# 🍞 Home Bakery   
+#  Home Bakery 🍞 
 
 ![Bakery](https://github.com/user-attachments/assets/39d925a9-c762-4983-9d50-ef4ec60ac4b9)
 
