@@ -5,7 +5,9 @@ body {
     overflow-x: hidden;
     margin: 0px;
 }
-
+html{
+    scroll-behavior: smooth;
+}
 .home {
     width: 100vw;
     height: 100vh;
